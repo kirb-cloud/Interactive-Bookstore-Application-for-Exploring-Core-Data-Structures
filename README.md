@@ -1,4 +1,4 @@
-# Comprehensive Data Structures Project  
+# Bookstore - Comprehensive Data Structures Project  
 *Calculator, Bookstore, and Tester System*
 
 ## Project Overview
